@@ -1,2 +1,3 @@
-# Vibed_from_hot-air
-A hall (of noteworthy/shame) of some projects that would be intresting if not for using "AI"…
+# OLWC
+
+https://github.com/termdex/olwc
