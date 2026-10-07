@@ -10,3 +10,7 @@ https://github.com/dplanitzer/Serena
 # Trailpoint
 
 https://github.com/aspauldingcode/TrailPoint
+
+# Northstar-browser
+
+https://github.com/nordstjernen-web/northstar-browser
