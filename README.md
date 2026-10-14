@@ -24,3 +24,9 @@ https://github.com/ajfa/sun386i-mame
 This is a more minor one on the list, vibecoded? yes, but at least they are good example programs.
 
 https://github.com/tenox7/sunviewgames
+
+
+# Penumbra
+It sounded so good to be true. Reality is that like every other project here… "Claude AI".
+
+https://github.com/lonemeow/penumbra-minicomputer/tree/main
