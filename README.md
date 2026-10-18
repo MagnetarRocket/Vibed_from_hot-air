@@ -1,4 +1,5 @@
 # OLWC
+I have a fondness to the openlook standard, while this meets a lot of it… The usage of usage of claude makes this stink to high heaven for me.
 
 https://github.com/termdex/olwc
 
