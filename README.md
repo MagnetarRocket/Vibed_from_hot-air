@@ -31,3 +31,7 @@ https://github.com/tenox7/sunviewgames
 It sounded so good to be true. Reality is that like every other project here… "Claude AI".
 
 https://github.com/lonemeow/penumbra-minicomputer/tree/main
+
+#Solidcraft
+
+https://github.com/tangency-labs/solidcraft
