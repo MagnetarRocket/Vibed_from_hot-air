@@ -32,6 +32,6 @@ It sounded so good to be true. Reality is that like every other project here… 
 
 https://github.com/lonemeow/penumbra-minicomputer/tree/main
 
-#Solidcraft
+# Solidcraft
 
 https://github.com/tangency-labs/solidcraft
